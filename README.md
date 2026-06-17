@@ -13,8 +13,12 @@ Målet är att förvandla våra tidiga idéer till genomtänkta och användarvä
 
 ## Mål för veckan:
 
-1. 
-
+1. Skapa interaktiva prototyper i Figma.
+2. Förstå hur färg, typografi och layout påverkar användarupplevelsen.
+3. Tillämpa grundläggande principer för visuell hierarki.
+4. Förstå grunderna i WCAG och digital tillgänglighet.
+5. Identifiera användbarhetsproblem i gränssnitt.
+6. Arbeta med komponenter och designsystem i Figma.
 
 ## Resurser
 
